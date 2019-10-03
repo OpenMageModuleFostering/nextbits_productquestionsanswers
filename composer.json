@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/NextBits_ProductQuestionsAnswers",
+    "name": "openmage-module-fostering\/nextbits_productquestionsanswers",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "NextBits Product Questions Extension",
     "authors": [
