@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/NextBits_ProductQuestionsAnswers",
+    "name": "OpenMageModuleFostering\/NextBits_ProductQuestionsAnswers",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "NextBits Product Questions Extension",
     "authors": [
-    {
-        "name": "NextBits Web Solutions Pvt. Ltd.",
-        "email": "nextbitswebsolutions@gmail.com"
-    }
-],
+        {
+            "name": "NextBits Web Solutions Pvt. Ltd.",
+            "email": "nextbitswebsolutions@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
